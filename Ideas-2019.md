@@ -440,7 +440,7 @@ Technically speaking the Exerciser activity is wrote in Javascript using Sugar-W
 [Michaël Ohayon](https://github.com/mikklfr)
 
 **Assisting Mentors**<br>
-None.
+[Ritwik Agarwal](https://github.com/ritwikagarwal)
 
 ------------
 
@@ -617,7 +617,8 @@ Technically speaking the Sugarizer Server is wrote in JavaScript with node.js us
 
 **Coding Mentors**<br>
 [Tarun K. Singhal](https://github.com/tarunsinghal92) and
-[Lionel Laské](https://github.com/llaske)
+[Lionel Laské](https://github.com/llaske) and
+[Ritwik Agarwal](https://github.com/ritwikagarwal)
 
 **Assisting Mentors**<br>
 [Pratul Kumar](https://github.com/Pratul1997)
